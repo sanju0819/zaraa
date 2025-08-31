@@ -1,0 +1,16 @@
+streamlit
+groq
+speechrecognition
+sounddevice
+soundfile
+pyttsx3
+pydub
+beautifulsoup4
+requests
+python-docx
+pypdf2
+pandas
+matplotlib
+scikit-learn
+textblob
+Pillow
